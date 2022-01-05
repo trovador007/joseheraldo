@@ -1,0 +1,29 @@
+{
+  "name": "joseheraldo",
+  "version": "1.0.0",
+  "description": "Site Profissional de José Heraldo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trovador007/joseheraldo.git"
+  },
+  "keywords": [
+    "Site",
+    "Profissional",
+    "José",
+    "Heraldo"
+  ],
+  "author": "José Heraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trovador007/joseheraldo/issues"
+  },
+  "homepage": "https://github.com/trovador007/joseheraldo#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
